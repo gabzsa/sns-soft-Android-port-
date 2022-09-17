@@ -1,0 +1,31 @@
+{
+	"storyName": "Let me give you a hand, buddy...",
+	"difficulties": "Normal, Legacy",
+	"hideFreeplay": false,
+	"weekBackground": "mouse",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Kept Inside",
+			"mouse",
+			[
+				28,
+				26,
+				35
+			]
+		]
+	],
+	"weekName": "weekExtra"
+}
