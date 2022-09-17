@@ -1,0 +1,246 @@
+{
+	"dialogue": [
+		{
+			"expression": "2",
+			"text": "(This is the tale of two boys. One named Benjamin and another named Pico.)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "narrator"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "2",
+			"text": "(Benjamin is a blue haired boy who aspires to be a painter, and Pico is an orange haired high school dropout and a notorious graffiti artist.)"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "(The duo have been on the run for many weeks now from Benjamin's father. It is early morning, which makes it rather hard to hide now.)"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "2",
+			"text": "(As the sun rises from behind the city skyline, Benjamin and Pico dash into a familiar alleyway, out of breath from running so far.)"
+		},
+		{
+			"expression": "2",
+			"text": "Shit, that was close.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfsoft",
+			"boxState": "normal",
+			"expression": "1",
+			"text": "Thank goodness he didn't catch us this time..."
+		},
+		{
+			"expression": "4",
+			"text": "Wait a second, isn't this-?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfsoft"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "7",
+			"text": "-the alleyway from before?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "4",
+			"text": "Seems like it is."
+		},
+		{
+			"expression": "3",
+			"text": "Last time we were here nothing good hap-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfsoft"
+		},
+		{
+			"expression": "10",
+			"text": "!!!!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "bfsoft"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "(Right at that moment, the two boys hear a scream that seems to have come from the building next to the alleyway.)"
+		},
+		{
+			"expression": "5",
+			"text": "Pico, did you hear that?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfsoft"
+		},
+		{
+			"expression": "7",
+			"text": "Yeah, I did. Seems like it came from that studio over there...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "6",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.5,
+			"portrait": "bfsoft"
+		},
+		{
+			"expression": "3",
+			"text": "Can we... go and look inside, see what's wrong?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfsoft"
+		},
+		{
+			"expression": "4",
+			"text": "I don't know Softie, it could be something dangerous-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "pissed",
+			"text": "Father: Benjamin, get back here right now!!!",
+			"boxState": "angry",
+			"speed": 0.03,
+			"portrait": "narrator"
+		},
+		{
+			"expression": "5",
+			"text": "Alright nevermind let's go check it out-!",
+			"boxState": "angry",
+			"speed": 0.02,
+			"portrait": "pico"
+		},
+		{
+			"expression": "talk",
+			"text": "(They enter through the door to the studio, and they find a mouse in overalls sobbing...)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "narrator"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "2",
+			"text": "(He appears awfully familiar to the duo, but that's not important to them right now. What they need to do is get down to why he's so sad.)"
+		},
+		{
+			"expression": "3",
+			"text": "Um... hello?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfsoft"
+		},
+		{
+			"expression": "scared",
+			"text": "GAH-!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "mouse"
+		},
+		{
+			"expression": "happy",
+			"text": "O-oh, hello there-! W-what are you two doing here?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "mouse"
+		},
+		{
+			"expression": "7",
+			"text": "Hey, uh... we heard a scream come from this building, and it kind of sounded like your voice. Are you okay, man...?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "sad",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.5,
+			"portrait": "mouse"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mouse",
+			"boxState": "normal",
+			"expression": "talking1",
+			"text": "I... Yes, t-that was me..."
+		},
+		{
+			"expression": "talking1",
+			"text": "B-but it's best if you get out of here. You don't wanna know what happens in this studio...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "mouse"
+		},
+		{
+			"expression": "3",
+			"text": "You're... you're not going to do anything to us?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfsoft"
+		},
+		{
+			"sound": "",
+			"speed": 0.5,
+			"portrait": "mouse",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "..."
+		},
+		{
+			"expression": "8",
+			"text": "Hey, how about a song to cheer you up. Would that help, sir?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfsoft"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "mouse",
+			"boxState": "normal",
+			"expression": "talking1",
+			"text": "W-well..."
+		},
+		{
+			"expression": "talking2",
+			"text": "Okay then. If you think it will help...",
+			"boxState": "normal",
+			"portrait": "mouse",
+			"speed": 0.05
+		}
+	]
+}
